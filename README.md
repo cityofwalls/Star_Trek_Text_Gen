@@ -1,7 +1,7 @@
 # Star_Trek_Text_Gen
 ---
 ## Main Project Work from 8/30/2019 - 9/4/2019
-- Produced as part of interview process with Synapse
+- Produced as part of interview process with SynapseFI, San Francisco
 - Original problem discription and data set provided by:
   - Gary Broughton
   - https://www.kaggle.com/gjbroughton/start-trek-scripts

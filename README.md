@@ -7,12 +7,12 @@
   - https://www.kaggle.com/gjbroughton/start-trek-scripts
 ---
 ## Concepts covered
-1) Data cleaning
+1) **Data cleaning**
 --> Given complete production scripts for Star Trek: The Next Generation, separate lines into conversations between two target characters.
-2) Data Preprocessing
+2) **Data Preprocessing**
 --> Formulate these back and forth dialogues into input and output data for various NNs
-3) Recurrent Neural Network
+3) **Recurrent Neural Network (RNN)**
 --> Given sequences of text (either at a letter/punctuation level or word level), predict a response.
-4) Generative Adversarial Network
+4) **Generative Adversarial Network (GAN)**
 --> Given some noise (a text prompt), generate a response.
 ---

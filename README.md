@@ -8,11 +8,11 @@
 ---
 ## Concepts covered
 1) Data cleaning
-  - Given complete production scripts for Star Trek: The Next Generation, separate lines into conversations between two target characters.
+/t- Given complete production scripts for Star Trek: The Next Generation, separate lines into conversations between two target characters.
 2) Data Preprocessing
-  - Formulate these back and forth dialogues into input and output data for various NNs
+/t- Formulate these back and forth dialogues into input and output data for various NNs
 3) Recurrent Neural Network
-  - Given sequences of text (either at a letter/punctuation level or word level), predict a response.
+/t- Given sequences of text (either at a letter/punctuation level or word level), predict a response.
 4) Generative Adversarial Network
-  - Given some noise (a text prompt), generate a response.
+/t- Given some noise (a text prompt), generate a response.
 ---
